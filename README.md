@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="/Gray Code Logo Dark.png">
- <source media="(prefers-color-scheme: light)" srcset="Gray Code Logo Light.png">
- <img alt="a grey logo depicting a four-bit Gray code, arranged in a circle" src="Gray Code Logo Dark.png">
+ <source media="(prefers-color-scheme: dark)" srcset="/Gray%20Code%20Logo%20Dark.png">
+ <source media="(prefers-color-scheme: light)" srcset="Gray%20Code%20Logo%20Light.png">
+ <img alt="a grey logo depicting a four-bit Gray code, arranged in a circle" src="Gray%20Code%20Logo%20Dark.png">
 </picture>
 
 ## About me
