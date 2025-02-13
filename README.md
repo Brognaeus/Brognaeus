@@ -25,4 +25,6 @@ Computer engineer, programmer, gamemaster, and home cook
 > The supreme paradox of all thought is the attempt to discover something that thought cannot think.
 
 – Søren Kierkegaard
-<!-- :) -->
+<!-- :) 
+-This comment added from Visual Studio Code
+-->
